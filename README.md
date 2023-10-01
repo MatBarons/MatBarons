@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Computer Science at University of Turin<br>Learning Vue.JS, Flutter and Java<br>Feel free to contact me on LinkedIn
+Currently studying Cybersecurity at Politecnico di Torino<br>Feel free to contact me on LinkedIn
 
 
 
