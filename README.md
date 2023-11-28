@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently studying Cybersecurity at Politecnico di Torino<br>Feel free to contact me on LinkedIn
+I am a young Fullstack Developer, specializing in both Web2 and Web3 development.
+However, my passion for computer science makes me explore different fields, like cybersecurity and low level programming.
+On a personal note, i really enjoy reading sci-fi and fantasy books, like Dune
+
+Feel free to contact me on LinkedIn
 
 
 
