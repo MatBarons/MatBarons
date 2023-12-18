@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am a young Fullstack Developer, specializing in both Web2 and Web3 development.
-However, my passion for computer science makes me explore different fields, like cybersecurity and low level programming.
-On a personal note, i really enjoy reading sci-fi and fantasy books, like Dune
+I am a young Fullstack Developer, specializing in both Web2 and Web3 development.\s\s
+However, my passion for computer science makes me explore different fields, like cybersecurity and low level programming.\s\s
+On a personal note, i really enjoy reading sci-fi and fantasy books, like Dune\s\s
 
 Feel free to contact me on LinkedIn
 
