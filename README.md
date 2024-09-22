@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Fullstack Developer, specializing in both Web2 and Web3 development, <br>currently working in Avvale.<br><br>I'm currently working on a supplychain tracking project via the algorand blockchain.<br><br><br>
-
+I am a Fullstack Developer, specializing in both Web2 and Web3 development, <br>currently working in Avvale.<br><br>I'm currently working on a supplychain tracking project via the algorand blockchain.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/matteobarone1199/) 
