@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Fullstack Developer, specializing in both Web2 and Web3 development, <br>working in Capgemini.<br><br>Currently working on a code generator, cause i don't like repetitive tasks.<br>
+I am a Fullstack Developer, specializing in both Web2 and Web3 development, working in Capgemini.<br><br>Currently working on a code generator, cause i don't like repetitive tasks.<br>
 As a software engineer, i rather waste 3 months to automate something that take 15 minutes
 <br><br>
 
